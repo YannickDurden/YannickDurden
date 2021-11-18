@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YannickDurden
-- 👀 I’m interested in web and mobile dev
-- 🌱 I’m currently learning ReactNative
+- 👋  Hi, I’m @YannickDurden
+- 👀  I’m interested in web dev
+- 🌱  I like to discover new things and try cool stuff
 
 <!---
 YannickDurden/YannickDurden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
